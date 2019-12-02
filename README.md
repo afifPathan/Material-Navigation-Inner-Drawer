@@ -8,7 +8,9 @@ This project is a starting point for a Material Navigation Inner Drawer Flutter 
 
 # Material-Inner-Drawer
 
-<img src="https://github.com/afifPathan/Material-Navigation-Inner-Drawer/blob/master/Material_Navigation_Inner_Drawer.gif" height="400" alt="Screenshot"/>
+| Demo |
+|-------------------------------|
+| <img src="https://github.com/afifPathan/Material-Navigation-Inner-Drawer/blob/master/Material_Navigation_Inner_Drawer.gif" height="400" alt="Screenshot"/> |
 
 ## Questions?
  
